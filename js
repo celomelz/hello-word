@@ -1,5 +1,3 @@
-http://img.filipeflop.com/files/download/automacao/automacao_residencial.js
-
 function AlteraRele1(){
     var estado = document.getElementById("estado").innerHTML;
     if(estado === "0"){
