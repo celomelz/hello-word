@@ -71,7 +71,7 @@ div.rele2_desligado {
 div.rele3_ligado {
     position: absolute;
     right: -110px;
-    top: 387px;
+    top: 554px;
     width: 300px;
     height: 206px;
     border: none;
@@ -81,7 +81,7 @@ div.rele3_ligado {
 div.rele3_desligado {
     position: absolute;
     right: -110px;
-    top: 387px;
+    top: 554px;
     width: 300px;
     height: 206px;
     border: none;
@@ -91,7 +91,7 @@ div.rele3_desligado {
 div.rele4_ligado {
     position: absolute;
     right: -110px;
-    top: 387px;
+    top: 721px;
     width: 300px;
     height: 206px;
     border: none;
@@ -101,7 +101,7 @@ div.rele4_ligado {
 div.rele4_desligado {
     position: absolute;
     right: -110px;
-    top: 387px;
+    top: 721px;
     width: 300px;
     height: 206px;
     border: none;
@@ -133,7 +133,7 @@ div.rele4_desligado {
 #div3 {
 	position: absolute;
 	right: 85px;
-	top: 355px;
+	top: 515px;
     border-radius: 25px;
     border: 2px solid #000000;
     width: 350px;
@@ -144,7 +144,7 @@ div.rele4_desligado {
 #div4 {
 	position: absolute;
 	right: 85px;
-	top: 355px;
+	top: 675px;
     border-radius: 25px;
     border: 2px solid #000000;
     width: 350px;
@@ -228,7 +228,7 @@ div.rele4_desligado {
 #botao_3{
     position: absolute;
     right: 230px;
-    top: 417px;
+    top: 584px;
 	 width: 200px;
     height: 256px;
 }
@@ -265,7 +265,7 @@ div.rele4_desligado {
 #botao_4{
     position: absolute;
     right: 230px;
-    top: 417px;
+    top: 751px;
 	 width: 200px;
     height: 256px;
 }
